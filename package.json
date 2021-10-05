@@ -1,0 +1,39 @@
+{
+  "name": "zoom",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.4.10",
+    "@headlessui/react": "^1.4.1",
+    "@heroicons/react": "^1.0.4",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.1",
+    "apollo-link-http": "^1.5.17",
+    "autoprefixer": "^10.3.3",
+    "next": "11.1.2",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.8.1",
+    "postcss": "^8.3.6",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-loading-skeleton": "^2.2.0",
+    "react-moment": "^1.1.1",
+    "react-phone-input-2": "^2.14.0",
+    "react-slick": "^0.28.1",
+    "sass": "^1.39.0",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^2.2.9"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
